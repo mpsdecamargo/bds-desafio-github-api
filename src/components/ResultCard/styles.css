@@ -1,0 +1,12 @@
+.result-content p {
+  border: 1px solid #D9D9D9;
+  box-sizing: border-box;
+  border-radius: 4px;
+  color: #737373;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px; 
+  background-color: #FFFFFF; 
+}

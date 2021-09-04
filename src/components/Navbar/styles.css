@@ -1,0 +1,16 @@
+.main-nav {
+  padding-left: 40px;
+  min-height: 62px;
+  background-color: #1890FF;
+}
+
+.nav-logo-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 500;
+  color: #FFFFFF;
+  padding: 15px 0 15px 0;
+  width: 248px;
+}
